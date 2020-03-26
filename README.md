@@ -1,2 +1,2 @@
 # CppSocket
-Socket Programming in C++
+A simple socket implementation in C++
